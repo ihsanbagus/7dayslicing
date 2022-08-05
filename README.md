@@ -20,22 +20,22 @@
 ### Screenshot
 
 <p float="left">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/1splash.jpg" alt="Splash Screen 1" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/2splash.jpg" alt="Splash Screen 2" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/3getstarted.jpg" alt="Get Started Screen 1" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/4getstarted.jpg" alt="Get Started Screen 2" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/5signin.jpg" alt="Sign In Screen 1" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/6signin.jpg" alt="Sign In Screen 2" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/7empty.jpg" alt="Empty Screen 1" width="75">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/1splash.jpg" alt="Splash Screen 1" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/2splash.jpg" alt="Splash Screen 2" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/3getstarted.jpg" alt="Get Started Screen 1" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/4getstarted.jpg" alt="Get Started Screen 2" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/5signin.jpg" alt="Sign In Screen 1" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/6signin.jpg" alt="Sign In Screen 2" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/7empty.jpg" alt="Empty Screen 1" width="100">
 </p>
 <p float="left">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/8empty.jpg" alt="Empty Screen 2" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/9rating.jpg" alt="Rating Screen 1" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/10rating.jpg" alt="Rating Screen 2" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/11pricing.jpg" alt="Pricing Screen 1" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/12pricing.jpg" alt="Pricing Screen 2" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/13cart.jpg" alt="Cart Screen" width="75">
-    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/14booking.jpg" alt="Booking Screen" width="75">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/8empty.jpg" alt="Empty Screen 2" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/9rating.jpg" alt="Rating Screen 1" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/10rating.jpg" alt="Rating Screen 2" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/11pricing.jpg" alt="Pricing Screen 1" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/12pricing.jpg" alt="Pricing Screen 2" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/13cart.jpg" alt="Cart Screen" width="100">
+    <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/14booking.jpg" alt="Booking Screen" width="100">
 </p>
 
 ## Getting Started
