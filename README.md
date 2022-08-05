@@ -33,13 +33,12 @@
 ## Getting Started
 
 ```bash
-$ git clone https://github.com/ihsanbagus/7dayslicing.git     #for clone project to local
-$ flutter pub get                                       #for install dependency
-$ code .                                                #for open project with VSCode
-$ flutter build aar         #for Build a repository containing an AAR and a POM file.
-$ flutter build apk         #for Build an Android APK file from your app.
-$ flutter build appbundle   #for Build an Android App Bundle file from your app.
-$ flutter build web         #for Build a web application bundle.
+$ git clone https://github.com/ihsanbagus/7dayslicing.git       #for clone project to local
+$ flutter pub get                                               #for install dependency
+$ code .                                                        #for open project with VSCode
+$ flutter build aar                                             #for Build a repository containing an AAR and a POM file.
+$ flutter build apk                                             #for Build an Android APK file from your app.
+$ flutter build appbundle                                       #for Build an Android App Bundle file from your app.
 ```
 
 ## Support Devices
