@@ -2,12 +2,11 @@
 
 ### List Screens
 
-|        Screen        |      Screen      |        Screen        |      Screen      |
-| :------------------: | :--------------: | :------------------: | :--------------: |
-|   Splash Screen 1    |  Empty Screen 2  |   Splash Screen 2    | Rating Screen 1  |
-| Get Started Screen 1 | Rating Screen 2  | Get Started Screen 2 | Pricing Screen 1 |
+|        Screen        |      Screen      |        Screen        |      Screen      |     Screen     |
+| :------------------: | :--------------: | :------------------: | :--------------: | :------------: |
+|   Splash Screen 1    |  Empty Screen 2  |   Splash Screen 2    | Rating Screen 1  | Empty Screen 1 |
+| Get Started Screen 1 | Rating Screen 2  | Get Started Screen 2 | Pricing Screen 1 | Booking Screen |
 |   Sign In Screen 1   | Pricing Screen 2 |   Sign In Screen 2   |   Cart Screen    |
-|    Empty Screen 1    |                  |                      |  Booking Screen  |
 
 ### Screenshot
 
