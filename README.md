@@ -27,6 +27,8 @@
     <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/5signin.jpg" alt="Sign In Screen 1" width="75">
     <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/6signin.jpg" alt="Sign In Screen 2" width="75">
     <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/7empty.jpg" alt="Empty Screen 1" width="75">
+</p>
+<p float="left">
     <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/8empty.jpg" alt="Empty Screen 2" width="75">
     <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/9rating.jpg" alt="Rating Screen 1" width="75">
     <img src="https://github.com/ihsanbagus/7dayslicing/blob/main/ss/10rating.jpg" alt="Rating Screen 2" width="75">
