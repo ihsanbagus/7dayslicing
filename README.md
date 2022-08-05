@@ -19,20 +19,20 @@
 
 ### Screenshot
 
-![Splash Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/images/1splash.jpg "Splash Screen 1")
-![Splash Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/images/2splash.jpg "Splash Screen 2")
-![Get Started Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/images/3getstarted.jpg "Get Started Screen 1")
-![Get Started Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/images/4getstarted.jpg "Get Started Screen 2")
-![Sign In Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/images/5signin.jpg "Sign In Screen 1")
-![Sign In Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/images/6signin.jpg "Sign In Screen 2")
-![Empty Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/images/7empty.jpg "Empty Screen 1")
-![Empty Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/images/8empty.jpg "Empty Screen 2")
-![Rating Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/images/9rating.jpg "Rating Screen 1")
-![Rating Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/images/10rating.jpg "Rating Screen 2")
-![Pricing Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/images/11pricing.jpg "Pricing Screen 1")
-![Pricing Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/images/12pricing.jpg "Pricing Screen 2")
-![Cart Screen](https://github.com/ihsanbagus/7dayslicing/blob/main/images/13cart.jpg "Cart Screen")
-![Booking Screen](https://github.com/ihsanbagus/7dayslicing/blob/main/images/14booking.jpg "Booking Screen")
+![Splash Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/1splash.jpg "Splash Screen 1")
+![Splash Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/2splash.jpg "Splash Screen 2")
+![Get Started Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/3getstarted.jpg "Get Started Screen 1")
+![Get Started Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/4getstarted.jpg "Get Started Screen 2")
+![Sign In Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/5signin.jpg "Sign In Screen 1")
+![Sign In Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/6signin.jpg "Sign In Screen 2")
+![Empty Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/7empty.jpg "Empty Screen 1")
+![Empty Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/8empty.jpg "Empty Screen 2")
+![Rating Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/9rating.jpg "Rating Screen 1")
+![Rating Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/10rating.jpg "Rating Screen 2")
+![Pricing Screen 1](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/11pricing.jpg "Pricing Screen 1")
+![Pricing Screen 2](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/12pricing.jpg "Pricing Screen 2")
+![Cart Screen](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/13cart.jpg "Cart Screen")
+![Booking Screen](https://github.com/ihsanbagus/7dayslicing/blob/main/ss/14booking.jpg "Booking Screen")
 
 ## Getting Started
 
