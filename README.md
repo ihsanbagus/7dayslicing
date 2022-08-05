@@ -2,12 +2,15 @@
 
 ### List Screens
 
+<p float="left">
 - Splash Screen 1
 - Splash Screen 2
 - Get Started Screen 1
 - Get Started Screen 2
 - Sign In Screen 1
 - Sign In Screen 2
+</p>
+<p float="left">
 - Empty Screen 1
 - Empty Screen 2
 - Rating Screen 1
@@ -16,6 +19,7 @@
 - Pricing Screen 2
 - Cart Screen
 - Booking Screen
+</p>
 
 ### Screenshot
 
